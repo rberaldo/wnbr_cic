@@ -1,7 +1,7 @@
 ANÁLISE DA GLOSA TRAJE DE RISCO BIOLÓGICO
 A ANÁLISE RESULTA EM:
 S='Glosa02741703' = "vestimenta de uma peça e ampla usada para proteger quem a veste de agentes biológicos ou químicos perigosos"
-	{traje de risco zoológico: Quando encontram um soldado vestido com um I]traje de risco biológico, eles descobrem que todas as pessoas de lá foram mortas por um vírus.}
+	{traje de risco biológico: Quando encontram um soldado vestido com um I]traje de risco biológico, eles descobrem que todas as pessoas de lá foram mortas por um vírus.}
 
 Chave: TRAJE DE RISCO BIOLÓGICO <noun.artifact>
 ILI: 02741703 
