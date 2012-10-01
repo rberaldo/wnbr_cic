@@ -1,0 +1,17 @@
+ANÁLISE DA GLOSA GAIOLA
+A ANÁLISE RESULTA EM:
+S='4745a' = "clausura onde pássaros são aprisionados"
+	{gaiola: O sabiá cantava na ]gaiola.}
+
+Chave: GAIOLA <noun.artifact>
+ILI: 02743048 
+Sense 1
+{02743048} <noun.artifact> birdcage#1 -- (a cage in which a bird is kept)
+       => {02832381} <noun.artifact> cage#1, coop#2 -- (an enclosure made or wire or metal bars in which birds or animals are kept)
+           => {03166707} <noun.artifact> enclosure#1 -- (artifact consisting of a space that has been enclosed for some purpose)
+               => {00019244} <noun.Tops> artifact#1, artefact#1 -- (a man-made object taken as a whole)
+                   => {00016236} <noun.Tops> object#1, physical object#1 -- (a tangible and visible entity; an entity that can cast a shadow; "it was full of rackets, balls and other objects")
+                       => {00001740} <noun.Tops> entity#1 -- (that which is perceived or known or inferred to have its own distinct existence (living or nonliving))
+                   => {00002645} <noun.Tops> whole#2, whole thing#1, unit#6 -- (an assemblage of parts that is regarded as a single entity; "how big is that part compared to the whole?"; "the team is a unit")
+                       => {00016236} <noun.Tops> object#1, physical object#1 -- (a tangible and visible entity; an entity that can cast a shadow; "it was full of rackets, balls and other objects")
+                           => {00001740} <noun.Tops> entity#1 -- (that which is perceived or known or inferred to have its own distinct existence (living or nonliving))

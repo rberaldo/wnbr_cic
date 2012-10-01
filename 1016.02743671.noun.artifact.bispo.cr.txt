@@ -1,0 +1,20 @@
+ANÁLISE DA GLOSA BISPO
+A ANÁLISE RESULTA EM:
+S='Glosa02743671' = "(xadrez) peça que pode ser movida diagonalmente por casas desocupadas da mesma cor"
+	{bispo: O I]bispo é uma peça menor do xadrez ocidental.}
+
+Chave: BISPO <noun.artifact>
+ILI: 02743671 
+Sense 3
+{02743671} <noun.artifact> bishop#3 -- ((chess) a piece that can be moved diagonally over unoccupied squares of the same color)
+       => {02906334} <noun.artifact> chessman#1, chess piece#1 -- (any of 16 white and 16 black pieces used in playing the game of chess)
+           => {03577697} <noun.artifact> man#11, piece2#13 -- (game equipment consisting of an object used in playing certain board games; "he taught me to set up the men on the chess board"; "he sacrificed a piece to get a strategic advantage")
+               => {03289024} <noun.artifact> game equipment#1 -- (equipment or apparatus used in playing a game)
+                   => {03174243} <noun.artifact> equipment#1 -- (an instrumentality needed for an undertaking or to perform a service)
+                       => {03443493} <noun.artifact> instrumentality#3, instrumentation#1 -- (an artifact (or system of artifacts) that is instrumental in accomplishing some end)
+                           => {00019244} <noun.Tops> artifact#1, artefact#1 -- (a man-made object taken as a whole)
+                               => {00016236} <noun.Tops> object#1, physical object#1 -- (a tangible and visible entity; an entity that can cast a shadow; "it was full of rackets, balls and other objects")
+                                   => {00001740} <noun.Tops> entity#1 -- (that which is perceived or known or inferred to have its own distinct existence (living or nonliving))
+                               => {00002645} <noun.Tops> whole#2, whole thing#1, unit#6 -- (an assemblage of parts that is regarded as a single entity; "how big is that part compared to the whole?"; "the team is a unit")
+                                   => {00016236} <noun.Tops> object#1, physical object#1 -- (a tangible and visible entity; an entity that can cast a shadow; "it was full of rackets, balls and other objects")
+                                       => {00001740} <noun.Tops> entity#1 -- (that which is perceived or known or inferred to have its own distinct existence (living or nonliving))

@@ -1,0 +1,31 @@
+EQ_HAS_HYPO
+ANÁLISE DA GLOSA MÁSCARA
+A ANÁLISE RESULTA EM:
+S='Glosa03586017' = "cobertura protetiva usada sobre a face"
+	{máscara: Uma I]máscara de solda é sem dúvida alguma o item mais importante que o soldador deve usar para se proteger.}
+
+Chave: MÁSCARA <noun.artifact>
+ILI: 02743133 
+Sense 1
+{02743133} <noun.artifact> birdcage mask#1 -- (a catcher's mask with a strong wire face)
+       => {02876948} <noun.artifact> catcher's mask#1 -- (a mask to protect the face of the catcher in baseball)
+           => {03194155} <noun.artifact> face mask#1 -- (mask that provides a protective covering for the face in such sports as baseball or football or hockey)
+               => {03586017} <noun.artifact> mask1#4 -- (a protective covering worn over the face)
+                   => {03862579} <noun.artifact> protective covering#1, protective cover#1, protection#2 -- (a covering that is intend to protect from damage or injury; "they had no protection from the fallout"; "wax provided protection for the floors")
+                       => {03009582} <noun.artifact> covering#2 -- (an artifact that covers something else (usually to protect or shelter or conceal it))
+                           => {00019244} <noun.Tops> artifact#1, artefact#1 -- (a man-made object taken as a whole)
+                               => {00016236} <noun.Tops> object#1, physical object#1 -- (a tangible and visible entity; an entity that can cast a shadow; "it was full of rackets, balls and other objects")
+                                   => {00001740} <noun.Tops> entity#1 -- (that which is perceived or known or inferred to have its own distinct existence (living or nonliving))
+                               => {00002645} <noun.Tops> whole#2, whole thing#1, unit#6 -- (an assemblage of parts that is regarded as a single entity; "how big is that part compared to the whole?"; "the team is a unit")
+                                   => {00016236} <noun.Tops> object#1, physical object#1 -- (a tangible and visible entity; an entity that can cast a shadow; "it was full of rackets, balls and other objects")
+                                       => {00001740} <noun.Tops> entity#1 -- (that which is perceived or known or inferred to have its own distinct existence (living or nonliving))
+           => {02702269} <noun.artifact> baseball equipment#1 -- (equipment used in playing baseball)
+               => {04120269} <noun.artifact> sports equipment#1, sporting goods#1 -- (equipment needed to participate in a particular sport)
+                   => {03174243} <noun.artifact> equipment#1 -- (an instrumentality needed for an undertaking or to perform a service)
+                       => {03443493} <noun.artifact> instrumentality#3, instrumentation#1 -- (an artifact (or system of artifacts) that is instrumental in accomplishing some end)
+                           => {00019244} <noun.Tops> artifact#1, artefact#1 -- (a man-made object taken as a whole)
+                               => {00016236} <noun.Tops> object#1, physical object#1 -- (a tangible and visible entity; an entity that can cast a shadow; "it was full of rackets, balls and other objects")
+                                   => {00001740} <noun.Tops> entity#1 -- (that which is perceived or known or inferred to have its own distinct existence (living or nonliving))
+                               => {00002645} <noun.Tops> whole#2, whole thing#1, unit#6 -- (an assemblage of parts that is regarded as a single entity; "how big is that part compared to the whole?"; "the team is a unit")
+                                   => {00016236} <noun.Tops> object#1, physical object#1 -- (a tangible and visible entity; an entity that can cast a shadow; "it was full of rackets, balls and other objects")
+                                       => {00001740} <noun.Tops> entity#1 -- (that which is perceived or known or inferred to have its own distinct existence (living or nonliving))

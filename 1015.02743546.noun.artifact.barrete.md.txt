@@ -1,0 +1,27 @@
+ANÁLISE DA GLOSA BARRETE
+A ANÁLISE RESULTA EM:
+S='Glosa02743546' = "chapéu rígido usado pelos clérigos da Igreja Católica"
+	{barrete: Mithras é retratado como um homem enérgico jovem, vestindo um I]barrete.}
+
+Chave: BARRETE <noun.artifact>
+ILI: 02743546 
+Sense 1
+{02743546} <noun.artifact> biretta#1 -- (a stiff cap with ridges across the crown; worn by Roman Catholic clergy)
+       => {02849425} <noun.artifact> cap#1 -- (a tight-fitting headdress)
+           => {03374147} <noun.artifact> headdress#1, headgear#1 -- (clothing for the head)
+               => {02942117} <noun.artifact> clothing#1, article of clothing#1, vesture#2, wear#2 -- (a covering designed to be worn on a person's body)
+                   => {03009582} <noun.artifact> covering#2 -- (an artifact that covers something else (usually to protect or shelter or conceal it))
+                       => {00019244} <noun.Tops> artifact#1, artefact#1 -- (a man-made object taken as a whole)
+                           => {00016236} <noun.Tops> object#1, physical object#1 -- (a tangible and visible entity; an entity that can cast a shadow; "it was full of rackets, balls and other objects")
+                               => {00001740} <noun.Tops> entity#1 -- (that which is perceived or known or inferred to have its own distinct existence (living or nonliving))
+                           => {00002645} <noun.Tops> whole#2, whole thing#1, unit#6 -- (an assemblage of parts that is regarded as a single entity; "how big is that part compared to the whole?"; "the team is a unit")
+                               => {00016236} <noun.Tops> object#1, physical object#1 -- (a tangible and visible entity; an entity that can cast a shadow; "it was full of rackets, balls and other objects")
+                                   => {00001740} <noun.Tops> entity#1 -- (that which is perceived or known or inferred to have its own distinct existence (living or nonliving))
+                   => {02981618} <noun.artifact> consumer goods#1 -- (goods (as food or clothing) intended for direct use or consumption)
+                       => {02965274} <noun.artifact> commodity#1, trade goods#1, goods#1 -- (articles of commerce)
+                           => {00019244} <noun.Tops> artifact#1, artefact#1 -- (a man-made object taken as a whole)
+                               => {00016236} <noun.Tops> object#1, physical object#1 -- (a tangible and visible entity; an entity that can cast a shadow; "it was full of rackets, balls and other objects")
+                                   => {00001740} <noun.Tops> entity#1 -- (that which is perceived or known or inferred to have its own distinct existence (living or nonliving))
+                               => {00002645} <noun.Tops> whole#2, whole thing#1, unit#6 -- (an assemblage of parts that is regarded as a single entity; "how big is that part compared to the whole?"; "the team is a unit")
+                                   => {00016236} <noun.Tops> object#1, physical object#1 -- (a tangible and visible entity; an entity that can cast a shadow; "it was full of rackets, balls and other objects")
+                                       => {00001740} <noun.Tops> entity#1 -- (that which is perceived or known or inferred to have its own distinct existence (living or nonliving))

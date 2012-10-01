@@ -1,0 +1,21 @@
+ANÁLISE DA GLOSA MUNIÇÃO PARA CAÇA
+A ANÁLISE RESULTA EM:
+S='Glosa02743414' = "pequena munição de chumbo para espingardas"
+	{munição para caça: PM apreende farta I]munição para caça em Morro do Pilar.}
+
+Chave: MUNIÇÃO PARA CAçA <noun.artifact>
+ILI: 02743414 
+Sense 1
+{02743414} <noun.artifact> bird shot#1, buckshot#1, duck shot#1 -- (small lead shot for shotgun shells)
+       => {04045206} <noun.artifact> shot#6, pellet#2 -- (a solid missile discharged from a firearm; "the shot buzzed past his ear")
+           => {03857090} <noun.artifact> projectile#1, missile#2 -- (a weapon that is thrown or projected)
+               => {04387884} <noun.artifact> weapon#1, arm1#2, weapon system#1 -- (any instrument or instrumentality used in fighting or hunting; "he was licensed to carry a weapon")
+                   => {03443087} <noun.artifact> instrument#1 -- (a device that requires skill for proper use)
+                       => {03068033} <noun.artifact> device#1 -- (an instrumentality invented for a particular purpose; "the device is small enough to wear on your wrist"; "a device intended to conserve water")
+                           => {03443493} <noun.artifact> instrumentality#3, instrumentation#1 -- (an artifact (or system of artifacts) that is instrumental in accomplishing some end)
+                               => {00019244} <noun.Tops> artifact#1, artefact#1 -- (a man-made object taken as a whole)
+                                   => {00016236} <noun.Tops> object#1, physical object#1 -- (a tangible and visible entity; an entity that can cast a shadow; "it was full of rackets, balls and other objects")
+                                       => {00001740} <noun.Tops> entity#1 -- (that which is perceived or known or inferred to have its own distinct existence (living or nonliving))
+                                   => {00002645} <noun.Tops> whole#2, whole thing#1, unit#6 -- (an assemblage of parts that is regarded as a single entity; "how big is that part compared to the whole?"; "the team is a unit")
+                                       => {00016236} <noun.Tops> object#1, physical object#1 -- (a tangible and visible entity; an entity that can cast a shadow; "it was full of rackets, balls and other objects")
+                                           => {00001740} <noun.Tops> entity#1 -- (that which is perceived or known or inferred to have its own distinct existence (living or nonliving))
