@@ -1,0 +1,21 @@
+EQ_HAS_HYPO
+ANÁLISE DA GLOSA CINEMA
+A ANÁLISE RESULTA EM:
+S='2045' = "teatro onde filmes são projetados"
+	{cinema: Frequentadores que foram ao ]cinema ontem e o encontraram fechado se dividiram em relação à interdição.,
+        cine: Itamar e sua amiga intelectual vão ao ]cine e feira de livros.}
+
+Chave: CINEMA <noun.artifact>
+ILI: 02742075 
+Sense 1
+{02742075} <noun.artifact> bioscope1#1 -- (a South African movie theater)
+       => {02923431} <noun.artifact> cinema#2, movie theater#1, movie theatre#1, movie house#1, picture palace#1 -- (a theater where films are shown)
+           => {04247355} <noun.artifact> theater#1, theatre#1, house2#5 -- (a building where theatrical performances or motion-picture shows can be presented; "the house was full")
+               => {02809375} <noun.artifact> building#1, edifice#1 -- (a structure that has a roof and walls and stands more or less permanently in one place; "there was a three-story building on the corner"; "it was an imposing edifice")
+                   => {04174544} <noun.artifact> structure#1, construction#3 -- (a thing constructed; a complex construction or entity; "the structure consisted of a series of arches"; "she wore her hair in an amazing construction of whirls and ribbons")
+                       => {00019244} <noun.Tops> artifact#1, artefact#1 -- (a man-made object taken as a whole)
+                           => {00016236} <noun.Tops> object#1, physical object#1 -- (a tangible and visible entity; an entity that can cast a shadow; "it was full of rackets, balls and other objects")
+                               => {00001740} <noun.Tops> entity#1 -- (that which is perceived or known or inferred to have its own distinct existence (living or nonliving))
+                           => {00002645} <noun.Tops> whole#2, whole thing#1, unit#6 -- (an assemblage of parts that is regarded as a single entity; "how big is that part compared to the whole?"; "the team is a unit")
+                               => {00016236} <noun.Tops> object#1, physical object#1 -- (a tangible and visible entity; an entity that can cast a shadow; "it was full of rackets, balls and other objects")
+                                   => {00001740} <noun.Tops> entity#1 -- (that which is perceived or known or inferred to have its own distinct existence (living or nonliving))

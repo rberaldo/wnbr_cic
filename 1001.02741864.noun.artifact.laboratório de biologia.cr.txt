@@ -1,0 +1,15 @@
+ANÁLISE DA GLOSA LABORATÓRIO DE BIOLOGIA
+A ANÁLISE RESULTA EM:
+S='Glosa02741864' = "laboratório para pesquisa biológica"
+	{laboratório de biologia: Nestes três anos de atividades de pesquisa e as ações desenvolvidas deram uma perspectiva nova e amadureceu a ideia de criamos o I]Laboratório de Biologia.}
+
+Chave: LABORATÓRIO DE BIOLOGIA <noun.artifact>
+ILI: 02741864 
+Sense 01
+{02741864} <noun.artifact> biology lab#1, biology laboratory#1, bio lab#1 -- (a laboratory for biological research)
+       => {03495095} <noun.artifact> lab#1, laboratory#1, research lab#1, research laboratory#1, science lab#1, science laboratory#1 -- (a workplace for the conduct of scientific research)
+           => {04423637} <noun.artifact> workplace#1, work1#6 -- (a place where work is done; "he arrived at work early today")
+               => {08054258} <noun.location> geographic point#1, geographical point#1 -- (a point on the surface of the Earth)
+                   => {08094153} <noun.location> point#2 -- (the precise location of something; a spatially limited location; "she walked to a point where she could survey the whole street")
+                       => {00022625} <noun.Tops> location#1 -- (a point or extent in space)
+                           => {00001740} <noun.Tops> entity#1 -- (that which is perceived or known or inferred to have its own distinct existence (living or nonliving))

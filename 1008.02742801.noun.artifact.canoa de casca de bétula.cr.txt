@@ -1,0 +1,23 @@
+ANÁLISE DA GLOSA CANOA DE CASCA DE BÉTULA
+A ANÁLISE RESULTA EM:
+S='Glosa02742801' = "canoa feita da casca da bétula"
+	{canoa de casca de bétula: Um parente próximo da canoa moderna, a I]canoa de casca de bétula, era usada pelos Nativos Americanos, exploradores, missionários e caçadores.}
+
+Chave: CANOA DE CASCA DE BÉTULA <noun.artifact>
+ILI: 02742801 
+Sense 1
+{02742801} <noun.artifact> birchbark canoe#1, birchbark#1, birch bark#1 -- (a canoe made with the bark of a birch tree)
+       => {02846484} <noun.artifact> canoe#1 -- (small and light boat; pointed at both ends; propelled with a paddle)
+           => {04082619} <noun.artifact> small boat#1 -- (a boat that is small)
+               => {02757236} <noun.artifact> boat#1 -- (a small vessel for travel on water)
+                   => {04354269} <noun.artifact> vessel#2, watercraft#2 -- (a craft designed for water transportation)
+                       => {03012619} <noun.artifact> craft#2 -- (a vehicle designed for navigation in or on water or air or through outer space)
+                           => {04348422} <noun.artifact> vehicle#1 -- (a conveyance that transports people or objects)
+                               => {02988377} <noun.artifact> conveyance#3, transport#1 -- (something that serves as a means of transportation)
+                                   => {03443493} <noun.artifact> instrumentality#3, instrumentation#1 -- (an artifact (or system of artifacts) that is instrumental in accomplishing some end)
+                                       => {00019244} <noun.Tops> artifact#1, artefact#1 -- (a man-made object taken as a whole)
+                                           => {00016236} <noun.Tops> object#1, physical object#1 -- (a tangible and visible entity; an entity that can cast a shadow; "it was full of rackets, balls and other objects")
+                                               => {00001740} <noun.Tops> entity#1 -- (that which is perceived or known or inferred to have its own distinct existence (living or nonliving))
+                                           => {00002645} <noun.Tops> whole#2, whole thing#1, unit#6 -- (an assemblage of parts that is regarded as a single entity; "how big is that part compared to the whole?"; "the team is a unit")
+                                               => {00016236} <noun.Tops> object#1, physical object#1 -- (a tangible and visible entity; an entity that can cast a shadow; "it was full of rackets, balls and other objects")
+                                                   => {00001740} <noun.Tops> entity#1 -- (that which is perceived or known or inferred to have its own distinct existence (living or nonliving))

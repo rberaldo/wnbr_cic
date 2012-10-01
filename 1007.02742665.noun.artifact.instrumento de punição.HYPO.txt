@@ -1,0 +1,36 @@
+EQ_HAS_HYPO
+ANÁLISE DA GLOSA INSTRUMENTO DE PUNIÇÃO
+A ANÁLISE RESULTA EM:
+S='8381' = "instrumento projetado e usado para punir uma pessoa condenada"
+	{instrumento de punição: A palmatória foi o I]instrumento de punição física de estudantes mais utilizado no mundo.,
+        açoite: Começaram a me bater cruelmente usando um I]açoite.,
+        açoiteira: Pegou uma I]açoiteira e veio contra mim.,
+        açoute: Os golpes dados com o I]açoute.,
+        azorrague: O marido de Sofia, armado de um ]azorrague, castigava-as despiedadamente.,
+        chicote: A coação e a violência não eram aplicadas mais pelo ]chicote.,
+        flagelo: Uma mortalha branca com parte dos antebraços e punhos à mostra e à sua frente portando um I]flagelo.,
+        látego: Antigamente, os vagabundos eram castigados com o I]látego.,
+        muxinga: Meu pai Chico Galo estava fazendo uma I]muxinga.,
+        peia: Um homem segurando uma I]peia.,
+        rebenque: Um I]rebenque estalando se ouviu.,
+        relho: A vítima pegou um I]relho e foi em direção ao acusado.,
+        vergalho: Dona Angélica desceu munida de um I]vergalho.,
+        vergasta: Maria foi açoitada com uma I]vergasta de chorão.,
+        zorrague: O I]zorrague do algoz a dilacerar nossas carnes.}
+
+
+Chave: INSTRUMENTO DE PUNIÇÃO <noun.artifact>
+ILI: 02742665 
+Sense 3
+{02742665} <noun.artifact> birch#3, birch rod#1 -- (bundle of birch twigs used to hit people as punishment)
+       => {04202948} <noun.artifact> switch#5 -- (a flexible implement used as an instrument of punishment)
+           => {03444175} <noun.artifact> instrument of punishment#1 -- (an instrument designed and used to punish a condemned person)
+               => {03443087} <noun.artifact> instrument#1 -- (a device that requires skill for proper use)
+                   => {03068033} <noun.artifact> device#1 -- (an instrumentality invented for a particular purpose; "the device is small enough to wear on your wrist"; "a device intended to conserve water")
+                       => {03443493} <noun.artifact> instrumentality#3, instrumentation#1 -- (an artifact (or system of artifacts) that is instrumental in accomplishing some end)
+                           => {00019244} <noun.Tops> artifact#1, artefact#1 -- (a man-made object taken as a whole)
+                               => {00016236} <noun.Tops> object#1, physical object#1 -- (a tangible and visible entity; an entity that can cast a shadow; "it was full of rackets, balls and other objects")
+                                   => {00001740} <noun.Tops> entity#1 -- (that which is perceived or known or inferred to have its own distinct existence (living or nonliving))
+                               => {00002645} <noun.Tops> whole#2, whole thing#1, unit#6 -- (an assemblage of parts that is regarded as a single entity; "how big is that part compared to the whole?"; "the team is a unit")
+                                   => {00016236} <noun.Tops> object#1, physical object#1 -- (a tangible and visible entity; an entity that can cast a shadow; "it was full of rackets, balls and other objects")
+                                       => {00001740} <noun.Tops> entity#1 -- (that which is perceived or known or inferred to have its own distinct existence (living or nonliving))
